@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7174db909b33802478b0ceda54d978ea, type: 3}
+  m_Name: Five Seven SO
+  m_EditorClassIdentifier: 
+  Type: 1
+  Name: Five Seven
+  clipSize: 12
+  maxAmmo: 36
+  reloadTime: 0.5
+  adsPosition: {x: 0.228, y: 0.039, z: -0.31}
+  adsRotation: {x: 0, y: 0, z: 0}
+  adsSpeed: 10
+  trailConfig: {fileID: 11400000, guid: d3487d9ebf55f0543891509d2de1b72b, type: 2}
+  shootConfig: {fileID: 11400000, guid: 211b63c243009504d9fa2e3ae3011c01, type: 2}
+  gunIcon: {fileID: 21300000, guid: e47c67a089b348e4fb9f0e88684dbc61, type: 3}
+  gunShotClip: {fileID: 8300000, guid: 4c15f88982fca3e4796de44f8d3d0f97, type: 3}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7174db909b33802478b0ceda54d978ea, type: 3}
+  m_Name: AKM SO
+  m_EditorClassIdentifier: 
+  Type: 3
+  Name: AKM
+  clipSize: 30
+  maxAmmo: 90
+  reloadTime: 1
+  adsPosition: {x: 0.188, y: 0.08, z: -0.25}
+  adsRotation: {x: 0, y: -1, z: 0}
+  adsSpeed: 10
+  trailConfig: {fileID: 11400000, guid: 2ce4c33227d90c24cb5a4eeff49e9d45, type: 2}
+  shootConfig: {fileID: 11400000, guid: 8ccfe0c17da2b0342889bbf896184f77, type: 2}
+  gunIcon: {fileID: 21300000, guid: 7d25944f1d470e54e8b68dc9df65ac31, type: 3}
+  gunShotClip: {fileID: 8300000, guid: b4b8ff54756daec418687ccce8b29880, type: 3}
